@@ -4,10 +4,18 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 function App() {
   return (
     <>   
-     <Todo/>
-     <p>gfhn</p>
-   </>
 
+
+
+
+
+
+
+
+    
+     <Todo/>
+ 
+   </>
   );
 }
 
