@@ -7,7 +7,7 @@
     border-radius: 20px;
 
 }
-/* 
+
 .heading__style {
 
     margin-left: 36%;
@@ -16,7 +16,7 @@
     width: 175px;
     margin-top: 10px;
     text-decoration: double underline;
-} */
+}
 
 .inputType {
     margin-left: 25%;
@@ -32,9 +32,7 @@ input {
     border-radius: 50px;
     background-color: lightblue;
 
-    .checkbox{
-
-    }
+    .checkbox {}
 }
 
 button {
@@ -64,20 +62,22 @@ h5 {
     margin-left: 270px;
     margin-top: -50px;
 }
-.checkbox{
+
+.checkbox {
     height: 15px;
-    width:15px;
-    margin-left:-20px;
+    width: 15px;
+    margin-left: -20px;
     text-decoration: line-through;
-  
-}
-.input .type{
-    margin-top:-15px;
+
 }
 
-.select{
-    height:15px;
+.input .type {
+    margin-top: -15px;
+}
+
+.select {
+    height: 15px;
     background-color: aqua;
-    margin-left:-120px;
+    margin-left: -120px;
 
 }
