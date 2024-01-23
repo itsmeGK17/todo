@@ -196,7 +196,7 @@ const Todo = () => {
     const AddItem = () => {
         if (!input) {
             // Handle empty input case
-            alert("plz enter item")
+            alert("please don't Enter any item")
         } else {
             setItem([...item, { text: input, status: false }]);
             setInput("");
